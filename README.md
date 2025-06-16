@@ -1,6 +1,5 @@
 ![banner](./templates/banner.png) 
 
-
 <h1 align="center">Hi 👋, I'm Sri</h1>
 <h3 align="center">
 🎨 Front-End Dev fluent in Figma & JavaScript · Dabbled in ML · SQL & DSA Learner · Curious Mind with a Passion for Clean Design and Real-World Impact 🚀
@@ -10,7 +9,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on  
-uilding projects using Django to strengthen my backend development skills, while consistently practicing Data Structures and Algorithms to improve problem-solving.
+Building projects using **Django** to strengthen my backend development skills, while consistently practicing **Data Structures and Algorithms** to improve problem-solving.
 
 👯 I’m looking to collaborate on  
 Front-end or full-stack projects focused on **social good**, **sustainability**, or **smart UI/UX design**.
@@ -39,25 +38,11 @@ A web app for gamified waste management where users earn rewards by recycling.
 
 ---
 
-### 💡 Waste to Wealth
-A platform that allows people to drop waste at collection hubs in return for redeemable points.  
-🎯 **Contribution:** UI/UX Design, Front-End (HTML/CSS/JS)  
-🎁 **Highlights:** Points redeemable as Amazon gift cards.
-
----
-
-### 🚨 Undertrial Prisoners Hackathon App
-A legal access platform built in a 24-hour hackathon.  
+### 🚨 Judex – Undertrial Prisoners Hackathon App
+A legal access platform built in a 24-hour hackathon to support undertrial prisoners.  
 🏆 **Awarded:** *Founder’s Choice Award*  
 🧩 **Role:** Designed the full-stack app with a strong UI  
 🔧 **Built With:** HTML, CSS, JavaScript
-
----
-
-### 🧠 RAG Bot with External Data
-Built a Retrieval-Augmented Generation chatbot using large language models.  
-📌 **Focus:** NLP, LLM Integration, External Data Retrieval  
-🎯 **Purpose:** Accurate contextual answering beyond model limitations.
 
 ---
 
