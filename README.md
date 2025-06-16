@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" alt="Welcome Banner"/>
+  ![image](banner.jpg) 
 </p>
 
 <h1 align="center">Hi 👋, I'm Sri</h1>
