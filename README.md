@@ -1,4 +1,4 @@
-![image](assets/banner.jpg) 
+![banner](assets/banner.png) 
 
 
 <h1 align="center">Hi 👋, I'm Sri</h1>
