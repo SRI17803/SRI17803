@@ -1,5 +1,5 @@
 <p align="center">
-  ![image](banner.jpg) 
+  ![image](/banner.jpg) 
 </p>
 
 <h1 align="center">Hi 👋, I'm Sri</h1>
