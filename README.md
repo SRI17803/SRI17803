@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on  
-Improving **Recyclo’s UI** and adding features to make waste management more engaging and rewarding.
+uilding projects using Django to strengthen my backend development skills, while consistently practicing Data Structures and Algorithms to improve problem-solving.
 
 👯 I’m looking to collaborate on  
 Front-end or full-stack projects focused on **social good**, **sustainability**, or **smart UI/UX design**.
