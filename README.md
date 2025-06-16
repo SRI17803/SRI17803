@@ -1,23 +1,90 @@
-<h1 align="center">Hi 👋, I'm Sri</h1>
-<h3 align="center">🎨 Front-End Dev who speaks fluent Figma & JavaScript | Blending clean UI with smart logic | Dabbled in ML, deploying insights | SQL + DSA in the toolbox, curiosity in the core | Building projects that do good — not just look good 🚀</h3>
-
-- Hi, I'm Sri I worked on a few projects in the past [⚡ EV Battery Efficiency UI](Figma,CSS,Machine Learning Designed a real-time interface to monitor and optimize EV battery performance using clean UI and AI-driven insights.)
-
-- 🌱 I’m currently learning **Django, React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SRI17803](https://github.com/SRI17803)
-
-- 💬 Ask me about **UI/UX // DL // ML**
-
-- 📫 How to reach me **sriema@17803@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LGIHcQsRIYkUdvsAwR_QYQ-8tIDpLcJQ/view?usp=drivesdk](https://drive.google.com/file/d/1LGIHcQsRIYkUdvsAwR_QYQ-8tIDpLcJQ/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sri_17803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sri_17803" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sri-emandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sri-emandi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="100%" alt="Welcome Banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Sri</h1>
+<h3 align="center">
+🎨 Front-End Dev fluent in Figma & JavaScript · Dabbled in ML · SQL & DSA Learner · Curious Mind with a Passion for Clean Design and Real-World Impact 🚀
+</h3>
+
+---
+
+# 💫 About Me:
+🔭 I’m currently working on  
+Improving **Recyclo’s UI** and adding features to make waste management more engaging and rewarding.
+
+👯 I’m looking to collaborate on  
+Front-end or full-stack projects focused on **social good**, **sustainability**, or **smart UI/UX design**.
+
+🤝 I’m looking for help with  
+Deepening my understanding of **Django** and optimizing **full-stack integration**.
+
+🌱 I’m currently learning  
+**Django**, **React**, and sharpening my **DSA** skills.
+
+💬 Ask me about  
+**UI/UX Design**, **Front-End Development**, **ML Basics**, or anything related to **creative problem solving**.
+
+⚡ Fun fact  
+I once designed a full-stack app in a **24-hour hackathon** that got a *Founder’s Choice Award* — sleep can wait when ideas strike! 😄
+
+---
+
+## 📂 Projects
+
+### ♻️ Recyclo
+A web app for gamified waste management where users earn rewards by recycling.  
+🔧 **Tech Stack:** HTML, CSS, JavaScript, Figma  
+🌱 **Currently:** Improving UI, adding point-based rewards.  
+🔗 [GitHub Repo](https://github.com/SRI17803/Recyclo)
+
+---
+
+### 💡 Waste to Wealth
+A platform that allows people to drop waste at collection hubs in return for redeemable points.  
+🎯 **Contribution:** UI/UX Design, Front-End (HTML/CSS/JS)  
+🎁 **Highlights:** Points redeemable as Amazon gift cards.
+
+---
+
+### 🚨 Undertrial Prisoners Hackathon App
+A legal access platform built in a 24-hour hackathon.  
+🏆 **Awarded:** *Founder’s Choice Award*  
+🧩 **Role:** Designed the full-stack app with a strong UI  
+🔧 **Built With:** HTML, CSS, JavaScript
+
+---
+
+### 🧠 RAG Bot with External Data
+Built a Retrieval-Augmented Generation chatbot using large language models.  
+📌 **Focus:** NLP, LLM Integration, External Data Retrieval  
+🎯 **Purpose:** Accurate contextual answering beyond model limitations.
+
+---
+
+## 🌐 Socials  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/awesomedreamer.sri)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-emandi-5a4335226/)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sri_17803)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sriema17803@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
